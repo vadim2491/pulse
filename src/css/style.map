@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"button {\n    background-color: red;\n    height: 50px; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,MAAM,CAAC;EACH,gBAAgB,EAAE,GAAG;EACrB,MAAM,EAAE,IAAI;CAAG"
+}
